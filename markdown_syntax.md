@@ -18,3 +18,9 @@ aka bold, with **asterisks** or __underscores__.
 with **asterisks and _underscores_**.
 ## Strikethrough
 uses two tildes. ~~Scratch this.~~
+
+# 4. Lists
+
+# 5. Links
+useful references:
+1. [English 1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
