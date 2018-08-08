@@ -26,4 +26,4 @@ useful references:
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
 2. [Markdown Syntax Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 3. [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-4. [中文介绍]（https://coding.net/help/doc/project/markdown.html）
+4. [Chinese introduction]（https://coding.net/help/doc/project/markdown.html）中文介绍
