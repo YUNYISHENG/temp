@@ -8,3 +8,13 @@ We use the \# to indicate headers. Another way is to use underlines. But here we
    second comment
 --->
 Comments can be added by \<!--- --->. But it cannot comments in lines, see <!--- --->. 
+
+# 3. emphasis
+## Emphasis
+aka italics, with *asterisks* or _underscores_.
+## Strong emphasis 
+aka bold, with **asterisks** or __underscores__.
+## Combined emphasis
+with **asterisks and _underscores_**.
+## Strikethrough
+uses two tildes. ~~Scratch this.~~
