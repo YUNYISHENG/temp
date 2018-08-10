@@ -29,6 +29,9 @@ useful references:
 4. [中文介绍]（https://coding.net/help/doc/project/markdown.html）
 
 # 6. Images
+<!---
+![name](url)
+--->
 # 7. Code and Syntax Highlighting
 # 8. Tables
 # 9. Blockquotes
