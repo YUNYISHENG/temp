@@ -10,3 +10,5 @@ Please see a separate markdown file for the markdown syntax.
 努力学习与运用，
 时时奉献和自省，
 不断创新与创造。
+
+## Branching and Pull Request
